@@ -11,3 +11,9 @@ html {
   display: block;
   width: 100%;
 }
+
+.card {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  border-radius: 0 6px 6px;
+}
